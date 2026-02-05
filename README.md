@@ -65,26 +65,6 @@ Sensor-driven ML recognition system
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nithis127&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nithis127&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nithis127&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Portfolio Terminal
 
 🚀 Live Portfolio  
