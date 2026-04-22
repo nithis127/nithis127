@@ -16,7 +16,7 @@
 🧠 Focused on Data Science, Machine Learning & Analytics  
 🛠 Building real-world ML + SQL + Streamlit systems  
 ⚡ Passionate about solving real-world data problems  
-🤝 Open to Data Scientist / Analyst opportunities  
+🤝 Open to Data Scientist / AI / ML Engineer opportunitie  
 
 ---
 
